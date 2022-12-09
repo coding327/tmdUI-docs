@@ -1,6 +1,6 @@
 module.exports = {
   title: 'tmd-UI',
-  base: '/tmdUI/',
+  base: '/tmdui-docs/',
   themeConfig: {
     nav: [{
       text: 'Home',
